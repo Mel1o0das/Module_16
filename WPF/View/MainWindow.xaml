@@ -31,12 +31,12 @@
 
             <Border BorderBrush="Black" 
                     BorderThickness="1" CornerRadius="20" 
-                    Width="10" Height="10" Background="Green"
+                    Width="10" Height="10" Background="{Binding ColorSqlDbConnect}"
                     Grid.Row="0" HorizontalAlignment="Left"
                     Margin="10,0,0,0"/>
             <Border BorderBrush="Black" 
                     BorderThickness="1" CornerRadius="20" 
-                    Width="10" Height="10" Background="Green"
+                    Width="10" Height="10" Background="{Binding ColorAccessDbConnect}"
                     HorizontalAlignment="Left"
                     Margin="25,0,0,0"/>
 

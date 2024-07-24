@@ -1,4 +1,5 @@
-﻿using System.Data.SqlClient;
+﻿using System.Data;
+using System.Data.SqlClient;
 using System.Diagnostics;
 
 namespace ClassLibrary.ConnectDB
@@ -12,11 +13,10 @@ namespace ClassLibrary.ConnectDB
             IntegratedSecurity = true
         };
 
-        public void ConnectToSqlDB()
+        public ConnectionState ConnectToSqlDB()
         {
             SqlConnection sqlConnection = new(_connectionString.ConnectionString);
-            sqlConnection.Open();
-            Debug.Print(sqlConnection.State.ToString());
+            return sqlConnection.State;
         }
     }
 }

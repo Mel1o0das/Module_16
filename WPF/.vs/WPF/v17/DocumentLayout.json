@@ -3,32 +3,26 @@
   "WorkspaceRootPath": "D:\\C#\\Module_16\\WPF\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D41E62A8-422F-4B48-950F-99AFBD648F34}|WPF.csproj|d:\\c#\\module_16\\wpf\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D41E62A8-422F-4B48-950F-99AFBD648F34}|WPF.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D41E62A8-422F-4B48-950F-99AFBD648F34}|WPF.csproj|d:\\c#\\module_16\\wpf\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D41E62A8-422F-4B48-950F-99AFBD648F34}|WPF.csproj|solutionrelative:viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D41E62A8-422F-4B48-950F-99AFBD648F34}|WPF.csproj|d:\\c#\\module_16\\wpf\\commands\\closebuttoncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D41E62A8-422F-4B48-950F-99AFBD648F34}|WPF.csproj|solutionrelative:commands\\closebuttoncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D41E62A8-422F-4B48-950F-99AFBD648F34}|WPF.csproj|d:\\c#\\module_16\\wpf\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{D41E62A8-422F-4B48-950F-99AFBD648F34}|WPF.csproj|solutionrelative:view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D41E62A8-422F-4B48-950F-99AFBD648F34}|WPF.csproj|d:\\c#\\module_16\\wpf\\dictionary.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{D41E62A8-422F-4B48-950F-99AFBD648F34}|WPF.csproj|solutionrelative:dictionary.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{4C782864-71CD-422B-8248-1D5F0A3B14C8}|..\\ClassLibrary\\ClassLibrary.csproj|d:\\c#\\module_16\\classlibrary\\connectdb\\accessconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D41E62A8-422F-4B48-950F-99AFBD648F34}|WPF.csproj|d:\\c#\\module_16\\wpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{D41E62A8-422F-4B48-950F-99AFBD648F34}|WPF.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{D41E62A8-422F-4B48-950F-99AFBD648F34}|WPF.csproj|d:\\c#\\module_16\\wpf\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D41E62A8-422F-4B48-950F-99AFBD648F34}|WPF.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D41E62A8-422F-4B48-950F-99AFBD648F34}|WPF.csproj|d:\\c#\\module_16\\wpf\\services\\navigationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D41E62A8-422F-4B48-950F-99AFBD648F34}|WPF.csproj|solutionrelative:services\\navigationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D41E62A8-422F-4B48-950F-99AFBD648F34}|WPF.csproj|d:\\c#\\module_16\\wpf\\commands\\closebuttoncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D41E62A8-422F-4B48-950F-99AFBD648F34}|WPF.csproj|solutionrelative:commands\\closebuttoncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4C782864-71CD-422B-8248-1D5F0A3B14C8}|..\\ClassLibrary\\ClassLibrary.csproj|d:\\c#\\module_16\\classlibrary\\connectdb\\sqlconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,24 +32,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "AccessConnect.cs",
+              "DocumentMoniker": "D:\\C#\\Module_16\\ClassLibrary\\ConnectDB\\AccessConnect.cs",
+              "RelativeDocumentMoniker": "..\\ClassLibrary\\ConnectDB\\AccessConnect.cs",
+              "ToolTip": "D:\\C#\\Module_16\\ClassLibrary\\ConnectDB\\AccessConnect.cs",
+              "RelativeToolTip": "..\\ClassLibrary\\ConnectDB\\AccessConnect.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T16:31:13.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SqlConnect.cs",
+              "DocumentMoniker": "D:\\C#\\Module_16\\ClassLibrary\\ConnectDB\\SqlConnect.cs",
+              "RelativeDocumentMoniker": "..\\ClassLibrary\\ConnectDB\\SqlConnect.cs",
+              "ToolTip": "D:\\C#\\Module_16\\ClassLibrary\\ConnectDB\\SqlConnect.cs",
+              "RelativeToolTip": "..\\ClassLibrary\\ConnectDB\\SqlConnect.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBEAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T16:28:35.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "App.xaml.cs",
               "DocumentMoniker": "D:\\C#\\Module_16\\WPF\\App.xaml.cs",
               "RelativeDocumentMoniker": "App.xaml.cs",
               "ToolTip": "D:\\C#\\Module_16\\WPF\\App.xaml.cs",
               "RelativeToolTip": "App.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAQAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAwBsAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-24T15:49:54.201Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "CloseButtonCommand.cs",
               "DocumentMoniker": "D:\\C#\\Module_16\\WPF\\Commands\\CloseButtonCommand.cs",
               "RelativeDocumentMoniker": "Commands\\CloseButtonCommand.cs",
@@ -68,52 +88,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MainWindowViewModel.cs",
               "DocumentMoniker": "D:\\C#\\Module_16\\WPF\\ViewModels\\MainWindowViewModel.cs",
               "RelativeDocumentMoniker": "ViewModels\\MainWindowViewModel.cs",
               "ToolTip": "D:\\C#\\Module_16\\WPF\\ViewModels\\MainWindowViewModel.cs",
               "RelativeToolTip": "ViewModels\\MainWindowViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAApAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-24T15:48:15.468Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "NavigationService.cs",
-              "DocumentMoniker": "D:\\C#\\Module_16\\WPF\\Services\\NavigationService.cs",
-              "RelativeDocumentMoniker": "Services\\NavigationService.cs",
-              "ToolTip": "D:\\C#\\Module_16\\WPF\\Services\\NavigationService.cs",
-              "RelativeToolTip": "Services\\NavigationService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-24T15:47:42.984Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "App.xaml",
-              "DocumentMoniker": "D:\\C#\\Module_16\\WPF\\App.xaml",
-              "RelativeDocumentMoniker": "App.xaml",
-              "ToolTip": "D:\\C#\\Module_16\\WPF\\App.xaml",
-              "RelativeToolTip": "App.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-07-24T15:40:35.887Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Dictionary.xaml",
-              "DocumentMoniker": "D:\\C#\\Module_16\\WPF\\Dictionary.xaml",
-              "RelativeDocumentMoniker": "Dictionary.xaml",
-              "ToolTip": "D:\\C#\\Module_16\\WPF\\Dictionary.xaml",
-              "RelativeToolTip": "Dictionary.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-07-24T15:39:13.589Z",
               "EditorCaption": ""
             },
             {

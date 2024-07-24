@@ -27,7 +27,7 @@ namespace WPF
 
             MainWindow = new MainWindow()
             {
-                DataContext = new MainWindowViewModel(_navigationStore)
+                DataContext = new MainWindowViewModel(_navigationStore, sqlConnect.ConnectToSqlDB(), accessConnect.ConnectToAccessDB())
             };
             MainWindow.Show();
 

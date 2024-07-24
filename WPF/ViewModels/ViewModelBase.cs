@@ -2,7 +2,7 @@
 
 #nullable disable
 
-namespace WPF.ViewMoidels
+namespace WPF.ViewModels
 {
     public class ViewModelBase : INotifyPropertyChanged
     {

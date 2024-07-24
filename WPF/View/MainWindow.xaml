@@ -4,6 +4,8 @@
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WPF"
+        xmlns:mainWindowViewModel="clr-namespace:WPF.ViewModels" 
+        d:DataContext="{d:DesignInstance Type=mainWindowViewModel:MainWindowViewModel}"
         mc:Ignorable="d"
         
         WindowStyle="None"
@@ -11,20 +13,20 @@
         WindowStartupLocation="CenterScreen"
         Background="Transparent"
         ResizeMode="NoResize" 
-        Height="450" 
-        Width="800">
+        Height="600" 
+        Width="1200">
     <Border BorderBrush="Black" BorderThickness="1" 
             CornerRadius="20" Background="Bisque">
         <Grid>
             <Grid.RowDefinitions>
-                <RowDefinition Height="20"/>
-                <RowDefinition/>
+                <RowDefinition Height="30"/>
                 <RowDefinition/>
             </Grid.RowDefinitions>
 
             <Grid.ColumnDefinitions>
                 <ColumnDefinition/>
                 <ColumnDefinition/>
+                <ColumnDefinition Width="30"/>
             </Grid.ColumnDefinitions>
 
             <Border BorderBrush="Black" 
@@ -37,6 +39,17 @@
                     Width="10" Height="10" Background="Green"
                     HorizontalAlignment="Left"
                     Margin="25,0,0,0"/>
+
+            <TextBlock Text="Store"
+                       FontSize="23"
+                       HorizontalAlignment="Center"
+                       Grid.ColumnSpan="3"/>
+
+            <Button Grid.Column="2"
+                    VerticalAlignment="Center" HorizontalAlignment="Center"
+                    Width="20" Height="20"
+                    Style="{StaticResource ResourceKey=CloseButton}"
+                    Command="{Binding CloseApp}"/>
 
 
         </Grid>

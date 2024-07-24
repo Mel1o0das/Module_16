@@ -1,4 +1,4 @@
-﻿using WPF.ViewMoidels;
+﻿using WPF.ViewModels;
 
 #nullable disable
 

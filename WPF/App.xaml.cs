@@ -1,6 +1,7 @@
 ﻿using ClassLibrary.ConnectDB;
 using System.Windows;
 using WPF.Services;
+using WPF.ViewModels;
 
 namespace WPF
 {
@@ -26,8 +27,7 @@ namespace WPF
 
             MainWindow = new MainWindow()
             {
-                
-                //DataContext = new MainWindowVM(_navigationStore, _bank)
+                DataContext = new MainWindowViewModel(_navigationStore)
             };
             MainWindow.Show();
 
